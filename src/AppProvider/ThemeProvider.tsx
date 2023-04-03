@@ -7,7 +7,7 @@ const ThemeProvider = ({ children }: PropsWithChildren) => {
       theme={{
         token: {
           colorPrimary: "#00b96b",
-          fontFamily: "Ubuntu Mono",
+          fontFamily: "Poppins",
         },
         // algorithm: theme.darkAlgorithm,
         // components: {
